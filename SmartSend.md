@@ -4,8 +4,8 @@
 title: DXC Smart Send Technical Guide (Smart Send)
 description: Smart Send - Technical Guide Overview
 author: 
-manager: Kym Parker
-ms.date: 2024-07-17
+manager: Pontus Ek
+ms.date: 2025-07-25
 ms.topic: article
 ms.prod: 
 ms.service: dynamics-ax-applications

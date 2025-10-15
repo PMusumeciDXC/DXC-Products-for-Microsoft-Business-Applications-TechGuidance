@@ -4,7 +4,7 @@
 title: DXC Smart Send Technical Guide (Smart Send)
 description: Smart Send - Technical Guide Overview
 author: 
-manager: Kym Parker
+manager: Pontus Ek
 ms.date: 2024-07-17
 ms.topic: article
 ms.prod: 
@@ -49,9 +49,9 @@ Refer to the following link on how to Manage third-party models and runtime pack
 SmartSend License is managed using DXC License Manager.
 
 ## Adding Custom Reports
-While out of the box functionality is for the business forms listed [here](https://dxcanzproduct.github.io/DXC-Products-for-Microsoft-Business-Applications/SMART-SEND/Overview.html), the solution can be extended on further business forms or reports. This technical guide describes how the DXC Smart Business Form Email Manager solution can be extended by adding custom report.
+While out-of-the-box functionality is for the business forms listed [here](https://dxcanzproduct.github.io/DXC-Products-for-Microsoft-Business-Applications/SMART-SEND/Overview.html), the solution can be extended to further business forms or reports. This technical guide describes how the DXC Smart Business Form Email Manager solution can be extended by adding a custom report.
 
-Refer to the [sample model file](SmartSendExtensionSample.zip) that demonstrates how to extend SmartSend to support Request for Quote report (note the Request for Quote is now supported by DXC Smart Business Form Email Manager).
+Refer to the [sample model file](SmartSendExtensionSample.zip) that demonstrates how to extend SmartSend to support the Request for Quote report (note the Request for Quote is now supported by DXC Smart Business Form Email Manager).
 
 ### Prerequisite
 Minimum solution required is DXC Smart Business Form Email Manager Version 10.0.27.20220930.
